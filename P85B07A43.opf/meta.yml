@@ -1,0 +1,34 @@
+id: P85B07A43
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG03666
+  instance_id: http://purl.bdrc.io/resource/IE00KG03666
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - སྡོམ་གསུམ་རྣམ་བཤད་ཐར་ལམ་གསལ་བའི་མེ་ལོང་།
+  alt_title:
+    en-x-mixed:
+    - Sdom gsum rnam bśad thar lam gsal baʾi me loṅ źes bya ba bźugs so /Bsod-nams-rgya-mtshos
+      brtsams.
+    zh-latn-pinyin-x-ndia:
+    - san lu yi zhu shu
+  author: http://purl.bdrc.io/resource/P7721
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    037abc8b39df451eae24e28d95b0e0da:
+      title: པོད ༡་སྡོམ་གསུམ་རྣམ་བཤད་ཐར་ལམ་གསལ་བའི་མེ་ལོང
+      volume_number: 1
+      base_file: UT00KG03666_I00KG03743_0000.txt
+      reference: http://purl.bdrc.io/resource/VL8DED6B05FABE01A8
+      image_group: I00KG03743
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW00KG03666
+  - http://purl.bdrc.io/resource/W00KG03666
+  ocr_software: Namsel
+created_at: '2021-12-22T10:15:48.504811'
+last_modified_at: '2021-12-22T10:15:48.504817'
